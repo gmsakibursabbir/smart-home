@@ -4,16 +4,6 @@ Welcome to the repository for the **Smart Home** website! This project showcases
 
 ![App Screenshot](https://i.postimg.cc/WzXxgQdF/smarthome-1980.jpg)
 
-## Table of Contents 📑
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Demo](#demo)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-
 ## Introduction 🌟
 
 The **Smart Home** website is a project aimed at demonstrating the development of a modern, responsive website using web technologies such as HTML, CSS, and JavaScript. The website focuses on providing information and showcasing features related to smart home technology.
