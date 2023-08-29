@@ -1,6 +1,6 @@
 # Smart Home Website 🏡
 
-Welcome to the repository for the **Smart Home** website! This project showcases a responsive and clean website built using HTML, CSS, and JavaScript, following the BEM (Block Element Modifier) methodology for organizing and writing CSS.
+Welcome to the repository for the **Smart Home** website! This project showcases a responsive and clean website built using HTML, CSS, and JavaScript.
 
 ![App Screenshot](https://i.postimg.cc/WzXxgQdF/smarthome-1980.jpg)
 
@@ -12,7 +12,6 @@ The **Smart Home** website is a project aimed at demonstrating the development o
 
 - **Responsive Design:** The website is designed to work seamlessly across various devices and screen sizes, ensuring a consistent user experience.
 - **Clean Code:** The codebase follows best practices for writing clean, maintainable, and organized code.
-- **BEM CSS Methodology:** The CSS follows the Block Element Modifier (BEM) methodology, enhancing code readability and modularity.
 - **Interactive Elements:** JavaScript is used to create interactive elements that enhance user engagement and provide a dynamic user interface.
 
 ## Demo 🌐
@@ -35,7 +34,7 @@ Feel free to explore the codebase to understand how different components are str
 ## Technologies Used 💻
 
 - HTML
-- CSS (BEM Methodology)
+- CSS 
 - JavaScript
 
 ## Contributing 🤝
