@@ -2,7 +2,7 @@
 
 Welcome to the repository for the **Smart Home** website! This project showcases a responsive and clean website built using HTML, CSS, and JavaScript, following the BEM (Block Element Modifier) methodology for organizing and writing CSS.
 
-![Smart Home Website Screenshot]([[screenshot.png](https://i.postimg.cc/6pGCvnSt/222shots-so.jpg)](https://i.postimg.cc/6pGCvnSt/222shots-so.jpg))
+!![App Screenshot](https://i.postimg.cc/6pGCvnSt/222shots-so.jpg)
 
 ## Table of Contents 📑
 
