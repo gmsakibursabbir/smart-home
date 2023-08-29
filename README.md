@@ -27,7 +27,7 @@ The **Smart Home** website is a project aimed at demonstrating the development o
 
 ## Demo 🌐
 
-You can check out the live demo of the **Smart Home** website [here](https://your-demo-link.com).
+You can check out the live demo of the **Smart Home** website [here](https://gmsakibursabbir.github.io/smart-home/).
 
 ## Installation 🛠️
 
@@ -58,5 +58,3 @@ If you'd like to contribute to the project, follow these steps:
 4. Push to the branch: `git push origin feature-new-feature`
 5. Open a pull request detailing your changes.
 
-
----
